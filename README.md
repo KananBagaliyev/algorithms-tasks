@@ -57,10 +57,10 @@ After running code you need to enter following inputs in sequence:
 ## Example
 
 In first two lines:
-<pl>
+<ol>
     <li>Rows = 7</li>
     <li>Columns = 3</li>
-</pl>
+</ol>
 
 <br/>
 
