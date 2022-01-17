@@ -1,3 +1,13 @@
+# Table of Contents
+1. [Algorithmic problem 1](#algorithmic-problem-1---parking-dilemma)
+    1. [Run solution](#run-solution)
+    2. [Test solution](#test-solution)
+    3. [Example](#example)
+2. [Algorithmic problem 2](#algorithmic-problem-2)
+    1. [Run solution](#run-solution-1)
+    2. [Test solution](#test-solution-1)
+    3. [Example](#example-1)
+
 # Algorithmic problem 1 - Parking Dilemma
 
 In this problem it is required to find the optimal solution for the park roof cover
